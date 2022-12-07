@@ -27,7 +27,7 @@ class StringFunctions
 	System.out.println("String builder append "+sb.append(" Guys"));
 	
 	System.out.println("String builder reverse "+sb.reverse());
-	System.out.println();
+	System.out.println("String functions");
 	
 	}
 }
